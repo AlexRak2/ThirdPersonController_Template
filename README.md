@@ -10,8 +10,8 @@ There may be existing bugs in this template since it was never fully completed.
 This template is intended as a foundation for your project, and you are encouraged to build upon it.
 Have Questions?
 
-Feel free to join my Discord community and ask me any questions you may have!
-discord.com/invite/vB2NCBN44r
+Feel free to join my Discord community and ask me any questions you may have! [Discord](https://discord.com/invite/vB2NCBN44r
+)
 
 # Features:
 
