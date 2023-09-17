@@ -17,6 +17,7 @@ discord.com/invite/vB2NCBN44r
 
 Walk and run states
 Multi-directional strafing
+In Place Turning
 Jumping with unique animations for hard landings
 Camera shoulder swap
 Aiming (camera)
