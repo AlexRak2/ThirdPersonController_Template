@@ -22,6 +22,7 @@ Jumping with unique animations for hard landings
 Camera shoulder swap
 Aiming (camera)
 Inverse Kinematics (IK) for foot placement (Work in Progress)
+IK Head Body Looking
 
 # Getting Started:
 
